@@ -1,0 +1,24 @@
+{
+  "name": "notas-de-estudo-",
+  "version": "0.0.1",
+  "description": "Repositório dedicado as aulas desenvolvimento web!",
+  "homepage": "https://github.com/GabrielBr1to/Notas-de-estudo-#readme",
+  "bugs": {
+    "url": "https://github.com/GabrielBr1to/Notas-de-estudo-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielBr1to/Notas-de-estudo-.git"
+  },
+  "license": "ISC",
+  "author": "Gabriel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
